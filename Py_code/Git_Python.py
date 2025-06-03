@@ -1,4 +1,4 @@
-import turtle
+import turtle........
 
 t = turtle.Turtle()
 t.speed(0)
