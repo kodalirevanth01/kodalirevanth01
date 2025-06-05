@@ -1,9 +1,0 @@
-# For loop
-for fruit in fruits:
-    print(fruit)
-
-# While loop
-i = 0
-while i < 3:
-    print(i)
-    i += 1
